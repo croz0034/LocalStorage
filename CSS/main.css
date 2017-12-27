@@ -55,6 +55,28 @@ header h1{
 .contact .delete:hover{
   background-color: #d4d4d4;
 }
+
+.contact .edit{
+  float:left;
+  width: 10%;
+  height: 7rem;
+  background-color: #e4e4e4;
+  text-align:center;
+  line-height:7rem;
+  font-size: 2rem;
+  display:block;
+  background-image: url(https://image.flaticon.com/icons/svg/61/61456.svg);
+  background-repeat: no-repeat;
+  background-size: 50% 50%;
+  background-position: center center;
+  border-bottom: 1px solid #999;
+  border-top: 1px solid #ddd;
+  cursor: pointer;
+}
+.contact .edit:hover{
+  background-color: #d4d4d4;
+}
+
 .contact h3{
   color: #333;
   padding-top: 1.0rem;
