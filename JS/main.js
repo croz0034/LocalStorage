@@ -1,4 +1,4 @@
-const KEY = 'Tryel';
+const KEY = 'CROZ0034';
 let contacts = [];
 
 const init = function(){
